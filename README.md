@@ -1,12 +1,20 @@
 # Cowsay
 
-ASCII art avatars emote your messages
+ASCII art avatars emote your messages, now with the cute sign-holding bunny from Twitter
+
+```
+ _______________
+| TRANS RIGHTS! |
+ ---------------
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+```
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem install cowsay
+    git clone https://github.com/queenkjuul/cowsay.git
+    gem install cowsay/pkg/cowsay-0.3.0.gem
 
 And then execute:
 
